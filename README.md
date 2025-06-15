@@ -64,16 +64,6 @@ const biel = {
 
 ---
 
-## 🎯 Objectius 2025
-
-- [ ] 🚀 Millorar en tecnologies cloud (AWS/Azure)
-- [ ] 🔐 Obtenir certificacions en ciberseguretat
-- [ ] 📱 Desenvolupar aplicacions mòbils amb Flutter
-- [ ] 🌐 Contribuir més a projectes open source
-- [ ] 🎓 Participar en hackathons i competicions
-
----
-
 ## 💭 Cita Inspiradora
 
 > *"El millor moment per plantar un arbre va ser fa 20 anys. El segon millor moment és ara."*
