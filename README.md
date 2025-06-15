@@ -104,7 +104,7 @@ topics:
   
   ### ⭐ Si t'agrada el meu treball, deixa'm una estrella!
   
-  <img src="https://raw.githubusercontent.com/BielFortuny/BielFortuny/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
